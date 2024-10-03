@@ -1,0 +1,35 @@
+.DS_Store
+.vscode/
+*~
+
+#ANDROID
+# Gradle files
+.gradle/
+build/
+release/
+# Local configuration file (sdk path, etc)
+local.properties
+# Log/OS Files
+*.log
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+.apks
+toc.pb
+output.json
+jniLibs/
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+# Android Profiling
+*.hprof
+app/release/
+*.keystore
+*.jar
+*.aar
+*.sha1
