@@ -24,25 +24,12 @@ The app is developed using Kotlin/Compose. The codebase also includes a [Core](T
 
 ## 🏄‍♂️ Contributing
 
-- Look in to our [Github Issues](https://github.com/gemwalletcom/gem-android/issues)
-- See progress on our [Github Project Board](https://github.com/orgs/gemwalletcom/projects/2)
-- Public [Roadmap](https://github.com/orgs/gemwalletcom/projects/4)
-
-See our [Contributing Guidelines](./CONTRIBUTING.md).
-
 ## 🥰 Community
-
-- Install the app [Gem Wallet](https://gemwallet.com)
-- Join our [Discord](https://discord.gg/aWkq5sj7SY)
-- Follow on [Twitter](https://twitter.com/GemWalletApp) or join [Telegram](https://t.me/GemWallet)
 
 ## 🙋 Getting Help
 
-- Join the [support Telegram](https://t.me/gemwallet_developers) to get help, or
-- Open a [discussion](https://github.com/gemwalletcom/gem-android/discussions/new) with your question, or
-- Open an issue with [the bug](https://github.com/gemwalletcom/gem-android/issues/new)
 
-If you want to contribute, you can use our [developers telegram](https://t.me/gemwallet_developers) to chat with us about further development!
+
 
 ## 🚀 Getting Started
 
@@ -55,7 +42,7 @@ If you want to contribute, you can use our [developers telegram](https://t.me/ge
 2. Install JDK 17, preferably using [SDKMAN](https://sdkman.io/)
 3. Run `make boostrap` to install all nessesary tools (Rust / NDK).
 
-Optionally, you can generate models and kotlin bindgen by running `make generate`, Gem Android consumes wallet core library as a local module, if you need to update it, ping us or create an issue on [here](https://github.com/gemwalletcom/wallet-core-release).
+Optionally, you can generate models and kotlin bindgen by running `make generate`, Gem Android consumes wallet core library as a local module, if you need to update it, ping us or create an issue on [here]().
 
 ## 👨‍👧‍👦 Contributors
 
