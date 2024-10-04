@@ -21,7 +21,6 @@ The app is developed using Kotlin/Compose. The codebase also includes a [Core](h
 - 🔔 **Customizable Notifications:** Set alerts for transactions, price changes, and important events.
 - 🛡️ **Advanced Security:** Encryption and secure key management.
 
-<img src="https://assets.gemwallet.com/screenshots/github_preview.png" />
 
 ## 🏄‍♂️ Contributing
 
